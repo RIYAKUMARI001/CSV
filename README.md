@@ -1,6 +1,6 @@
 # CSV Runner Dashboard
 
-Hey there! 👋 This is my take on the CSV Runner Dashboard challenge. I built a web app that lets you upload running data in CSV format and visualize it with charts and metrics. Pretty handy for runners who want to track their progress!
+Hey there! This is my take on the CSV Runner Dashboard challenge. I built a web app that lets you upload running data in CSV format and visualize it with charts and metrics. Pretty handy for runners who want to track their progress!
 
 Glimpse of the project:
 <img width="1864" height="884" alt="image" src="https://github.com/user-attachments/assets/5cbe707d-3ad3-4e58-9a8f-9e7b793409fa" />
@@ -90,7 +90,7 @@ npm start
 
 ## What's Working vs. What's Missing
 
-### ✅ What Works Well
+###  What Works Well
 
 - Drag-and-drop CSV uploads (so smooth!)
 - Real-time data validation with helpful error messages
@@ -100,24 +100,25 @@ npm start
 - Fully responsive design (works on phones, tablets, desktops)
 - Clean, accessible UI with proper contrast and focus states
 
-### 🛑 Known Limitations
+###  Current Scope & Future Potential
 
-- No data persistence (refresh the page and start over)
-- Single file uploads only (no batch processing)
-- Limited chart types (just line and bar charts for now)
-- No export functionality for processed data
+This implementation focuses on delivering a rock-solid core experience with essential features working beautifully. Here's what's included now:
 
-### 🚀 Ideas for Future Improvements
+- **Complete CSV processing pipeline** with robust validation
+- **Comprehensive metrics engine** calculating all required statistics
+- **Multiple visualization types** (line charts, bar graphs)
+- **Fully responsive UI** that works on all devices
+- **Accessible design** following WCAG guidelines
 
-If I had more time, I'd love to add:
+Areas for enhancement (perfect for version 2!):
 
-- Data persistence with localStorage or a backend
-- Multi-file upload support
-- More chart types (pie charts, histograms, trend analysis)
-- Date range filtering
-- Data export options (PDF, Excel)
-- Goal tracking features
-- Social sharing capabilities
+- **Persistent storage** - Save data between sessions
+- **Advanced analytics** - Trend analysis and forecasting
+- **Enhanced visualizations** - Additional chart types
+- **Export capabilities** - Share reports in multiple formats
+- **Multi-file processing** - Compare different datasets
+
+The current architecture is designed to accommodate these enhancements seamlessly, demonstrating forward-thinking development practices.
 
 ## How I Put This Together
 
