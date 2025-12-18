@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+
+# Build outputs
+.next
+out
+
+# Environment variables
+.env*
+
+# Logs
+*.log
+
+# IDE files
+.vscode
+.idea
+.DS_Store
+
+# Local files
+*.local
+
+# Generated files
+next-env.d.ts
