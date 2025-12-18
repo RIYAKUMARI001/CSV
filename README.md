@@ -166,4 +166,4 @@ I tried to keep things friendly for everyone:
 
   LIVE DEMO - https://vercel.com/riyakumari001s-projects/csv
 
-Hope you enjoy using this as much as I enjoyed building it! 🏃‍♂️💨
+Hope you enjoy using this as much as I enjoyed building it! 
