@@ -2,6 +2,10 @@
 
 Hey there! 👋 This is my take on the CSV Runner Dashboard challenge. I built a web app that lets you upload running data in CSV format and visualize it with charts and metrics. Pretty handy for runners who want to track their progress!
 
+Glimpse of the project:
+<img width="1864" height="884" alt="image" src="https://github.com/user-attachments/assets/5cbe707d-3ad3-4e58-9a8f-9e7b793409fa" />
+
+
 ## What's This All About?
 
 This project tackles the challenge of turning raw running data into meaningful insights. You simply upload a CSV with dates, runner names, and distances, and boom - you get beautiful visualizations and stats. No more staring at spreadsheets trying to make sense of your running habits!
